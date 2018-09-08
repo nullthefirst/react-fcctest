@@ -9,7 +9,7 @@
     "react-helmet": "5.x"
   },
   "scripts": {
-    "test": "jest"
+    "test": ""
   },
   "repository": {
     "type": "git",
@@ -28,12 +28,5 @@
   "bugs": {
     "url": "https://github.com/Usheninte/reactest.js/issues"
   },
-  "homepage": "https://github.com/Usheninte/reactest.js#readme",
-  "devDependencies": {
-    "babel-jest": "^23.4.2",
-    "babel-preset-env": "^1.7.0",
-    "babel-preset-react": "^6.24.1",
-    "jest": "^23.5.0",
-    "react-test-renderer": "^16.5.0"
-  }
+  "homepage": "https://github.com/Usheninte/reactest.js#readme"
 }
