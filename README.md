@@ -1,15 +1,10 @@
 # [By Usheninte](https://twitter.com/Usheninte)
 
-This is a React plugin (built in **2018**) for the freeCodeCamp Test Suite.
+This is a React component (built in **2018** with ES6) for the freeCodeCamp Test Suite.
 
 ## How To Use
 
-First,  
-* Run `npm install react-fcctest ` in the terminal  
-
-Then, 
-* Place `import React_fCCtest from 'react-fcctest';`  
-  at the head of your React application homepage
+* Place the **`react-fcctest.js`** file in your component directory
 
 That is all there is to it!
 
