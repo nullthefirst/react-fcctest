@@ -1,8 +1,15 @@
 var assert = require('assert');
-describe('Array', function() {
-  describe('#indexOf()', function() {
-    it('should return -1 when the value is not present', function() {
-      assert.equal([1,2,3].indexOf(4), -1);
+describe('reactestjs', function() {
+  describe('fCC_TestSuite', function() {
+    it('should check for fCC test suite link', function() {
+      var url = "https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js";
+      if (!url) {
+        var scripts = document.getElementsByTagName('script');
+        for (var i = scripts.length; i--;) {
+            if (scripts[i].src == url) return true;
+        }
+        return false;
+      };
     });
   });
 });
