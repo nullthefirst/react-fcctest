@@ -1,0 +1,39 @@
+{
+  "name": "reactestjs",
+  "version": "1.0.0",
+  "description": "React fCC Test Suite plugin",
+  "main": "reactest.js",
+  "peerDependencies": {
+    "react": "16.x",
+    "react-dom": "16.x",
+    "react-helmet": "5.x"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Usheninte/reactest.js.git"
+  },
+  "keywords": [
+    "freeCodeCamp",
+    "fCC",
+    "Test",
+    "Suite",
+    "React",
+    "plugin"
+  ],
+  "author": "Usheninte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Usheninte/reactest.js/issues"
+  },
+  "homepage": "https://github.com/Usheninte/reactest.js#readme",
+  "devDependencies": {
+    "babel-jest": "^23.4.2",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "jest": "^23.5.0",
+    "react-test-renderer": "^16.5.0"
+  }
+}
