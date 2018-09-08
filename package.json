@@ -1,14 +1,13 @@
 {
   "name": "react-fcctest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React freeCodeCamp Test Suite plugin",
   "main": "react-fcctest.js",
   "peerDependencies": {
     "react": "16.x",
     "react-dom": "16.x",
     "react-helmet": "5.x",
-    "babel-preset-env": "1.x",
-    "babel-preset-react": "6.x"
+    "helmet-webpack-plugin": "0.0.3"
   },
   "scripts": {
     "test": "mocha"
@@ -32,6 +31,8 @@
   },
   "homepage": "https://github.com/Usheninte/react-fcctest#readme",
   "devDependencies": {
-    "mocha": "^5.2.0"
+    "mocha": "^5.2.0",
+    "babel-preset-env": "1.x",
+    "babel-preset-react": "6.x"
   }
 }

@@ -1,6 +1,6 @@
 # [By Usheninte](https://twitter.com/Usheninte)
 
-This is a React plugin for the freeCodeCamp Test Suite, built in **2018**.
+This is a React plugin (built in **2018**) for the freeCodeCamp Test Suite.
 
 ## How To Use
 
@@ -8,7 +8,8 @@ First,
 * Run `npm install react-fcctest ` in the terminal  
 
 Then, 
-* Place `import React_fCCtest from 'react-fcctest';` at the head of your React application homepage
+* Place `import React_fCCtest from 'react-fcctest';`  
+  at the head of your React application homepage
 
 That is all there is to it!
 
