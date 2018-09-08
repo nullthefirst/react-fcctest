@@ -1,8 +1,8 @@
 {
-  "name": "reactestjs",
+  "name": "react-fcctest",
   "version": "1.0.0",
   "description": "React freeCodeCamp Test Suite plugin",
-  "main": "reactest.js",
+  "main": "react-fcctest.js",
   "peerDependencies": {
     "react": "16.x",
     "react-dom": "16.x",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Usheninte/reactestjs.git"
+    "url": "git+https://github.com/Usheninte/react-fcctest.git"
   },
   "keywords": [
     "freeCodeCamp",
@@ -28,9 +28,9 @@
   "author": "Usheninte",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Usheninte/reactestjs/issues"
+    "url": "https://github.com/Usheninte/react-fcctest/issues"
   },
-  "homepage": "https://github.com/Usheninte/reactestjs#readme",
+  "homepage": "https://github.com/Usheninte/react-fcctest#readme",
   "devDependencies": {
     "mocha": "^5.2.0"
   }
