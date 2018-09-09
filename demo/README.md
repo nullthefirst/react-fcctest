@@ -1,0 +1,1 @@
+This technical [Medium article](https://medium.com/dailyjs/building-a-react-component-with-webpack-publish-to-npm-deploy-to-github-guide-6927f60b3220) helped a great deal, in breaking down how to use **Webpack**.
