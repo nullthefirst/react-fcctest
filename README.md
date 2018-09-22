@@ -5,7 +5,7 @@ This is a React plugin (built in **2018** with ES6) for the freeCodeCamp Test Su
 
 ## How To Use
 
-* Run `npm i react-fcctest` to install the React plugin
+* Run `npm i react-fcctest` or `yarn add react-fcctest` to install the React plugin
 
 * Place `import ReactFCCtest from 'react-fcctest';` at the top of your **App.js** file
 
