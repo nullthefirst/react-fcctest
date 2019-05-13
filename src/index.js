@@ -10,7 +10,6 @@ const ReactFCCtest = () => {
                 src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js" >
         </script>
       </Helmet>
-      <h5>react-fcctest running</h5>
     </div>
   );
 };
