@@ -10,7 +10,7 @@ This plugin works for the following sections of the curriculum
 
 ## How To Use
 
--   Run `npm i react-fcctest` or `yarn add react-fcctest` to install the React plugin.
+-   Run `npm i react-fcctest` or `yarn add react-fcctest` to install the JavaScript plugin.
 -   Include the following JSX tag in your code.
 
 ```javascript
