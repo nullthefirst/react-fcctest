@@ -1,5 +1,13 @@
 This is a React plugin for the freeCodeCamp Test Suite. [**Here is the DEMO**](https://usheninte.github.io/react-fcctest/).
 
+## Functionality
+
+This plugin works for the following sections of the curriculum
+
+- Responsive Web Design Projects
+- Front End Libraries Projects
+- Data Visualization Projects
+
 ## How To Use
 
 * Run `npm i react-fcctest` or `yarn add react-fcctest` to install the React plugin
