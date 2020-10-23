@@ -1,39 +1,23 @@
-This is a JavaScript plugin for the freeCodeCamp Test Suite. [**Here is the DEMO**](https://usheninte.github.io/react-fcctest/).
+This is a JavaScript plugin for the freeCodeCamp Test Suite. <span style="color: #22a1f2; text-decoration: underline;"><a href="https://usheninte.github.io/react-fcctest/">Here is the DEMO</a></span>.
 
 ## Functionality
 
 This plugin works for the following sections of the curriculum
 
-- Responsive Web Design Projects
-- Front End Libraries Projects
-- Data Visualization Projects
+-   Responsive Web Design Projects
+-   Front End Libraries Projects
+-   Data Visualization Projects
 
 ## How To Use
 
-* Run `npm i react-fcctest` or `yarn add react-fcctest` to install the React plugin
-
-* Place `import ReactFCCtest from 'react-fcctest';` at the top of your **App.js** file
-
-## Example
+-   Run `npm i react-fcctest` or `yarn add react-fcctest` to install the React plugin.
+-   Include the following JSX tag in your code.
 
 ```javascript
-  import React, { Component } from 'react';
-  import ReactFCCtest from 'react-fcctest';
-
-  class App extends Component {
-    render() {
-      return (
-        <div>
-          <ReactFCCtest />
-        </div>
-      );
-    }
-  };
-  export default App;
-
+<ReactFCCtest />
 ```
 
 That is all there is to it!
 
 > This open source project was built out of admiration for freeCodeCamp. Teaching people to code globally is a great mission! Try to change the world, one line of code at a time.
-[~ @usheninte](https://ninte.dev)
+> [~ ninte.dev](https://ninte.dev)
