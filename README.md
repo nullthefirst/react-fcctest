@@ -1,4 +1,4 @@
-This is a React plugin for the freeCodeCamp Test Suite. [**Here is the DEMO**](https://usheninte.github.io/react-fcctest/).
+This is a JavaScript plugin for the freeCodeCamp Test Suite. [**Here is the DEMO**](https://usheninte.github.io/react-fcctest/).
 
 ## Functionality
 
