@@ -1,5 +1,5 @@
 {
-  "name": "@usheninte/react-fcctest",
+  "name": "@usheninte/js-fcctest",
   "version": "2.0.0",
   "description": "JavaScript freeCodeCamp Test Suite plugin",
   "main": "dist/index.js",
